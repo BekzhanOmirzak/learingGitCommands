@@ -14,6 +14,10 @@ class MainActivity : AppCompatActivity() {
         //This is my first commit
 
 
+        //This is my second commit from branch newImage
+
+
+
 
     }
 }
